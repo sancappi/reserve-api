@@ -10,15 +10,11 @@ Este projeto se refere a API RESTful utilizada em um sistema full-stack que dese
 
 ## Como rodar o projeto
 
-### Ambiente de desenvolvimento
-
 Para iniciar o projeto em modo de desenvolvimento:
 
 ```bash
 npm run dev
 ```
-
-### Ambiente de produção
 
 Para gerar os arquivos otimizados para produção:
 

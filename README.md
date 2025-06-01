@@ -14,14 +14,20 @@ Este projeto se refere a API RESTful utilizada em um sistema full-stack que dese
 
 Para iniciar o projeto em modo de desenvolvimento:
 
-npm start
+```bash
+npm run dev
+```
 
 ### Ambiente de produção
 
 Para gerar os arquivos otimizados para produção:
 
-...
+```bash
+npm build
+```
 
-Para visualizar o projeto em ambiente de produção local:
+Para visualizar o projeto em ambiente de produção:
 
-...
+```bash
+npm start
+```
